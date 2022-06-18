@@ -13,18 +13,25 @@ The data is being loaded from web with its source code copied into Microsoft Exc
 ---
 
 # Findings
-Total number of confirmed cases is 525915132, while the Total Deaths is 6268173
+Total number of confirmed cases is 525963892	while Total Deaths is 6268256 as at 16th June, 2022
+	
+
+
+![image](https://user-images.githubusercontent.com/107109434/174424218-b0cec7ff-6824-45a9-90b2-549b52ca34aa.png)
 		
-![total](https://user-images.githubusercontent.com/107109434/174138947-3818bf36-289e-4bad-88c3-07d70678a783.PNG)
+
+
 
 
 
 The United States has the highest number of confirmed cases
 
-![image](https://user-images.githubusercontent.com/107109434/174139203-cde7b5d9-81f6-4ceb-b84a-ad928b55b1c9.png)
+![image](https://user-images.githubusercontent.com/107109434/174424382-6f9ade21-3c95-4b76-a575-79fd47a03d7f.png)
+
 
 Countries with least cases
-![image](https://user-images.githubusercontent.com/107109434/174139377-15fef8fd-c472-4d3b-abb8-0c081a2ed8e5.png)
+![image](https://user-images.githubusercontent.com/107109434/174424403-7417c39f-417f-4edc-bdec-f2eaabe6e0ea.png)
+
 
 
 
@@ -36,7 +43,7 @@ Total Confirmed	cases is 256,352, Reported Deaths is 3,148	while Death Rate is 1
 ![image](https://user-images.githubusercontent.com/107109434/174139917-97148845-f929-4ae2-926a-6f4c16968323.png)
 ![nig](https://user-images.githubusercontent.com/107109434/174140266-ff0f579e-201f-4198-95be-b90490e633f7.PNG)
 
-It is also noticeable that confirmed cases correlates with deaths and recovery steeps back to zero at Q3, 2021 for most countries.
+It is also noticeable that confirmed cases correlates with deaths and recovery steeps back to zero in August 2021 because no data has been recorded since then.
 
 
 
